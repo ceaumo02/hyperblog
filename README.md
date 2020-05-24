@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples del profe
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [**ve a ver el curso**](https://platzi.com/r/cesar-morales649390/).
